@@ -1,0 +1,112 @@
+[
+  {
+    "id": "t1",
+    "title": "Meilisearchをセットアップする",
+    "assignee": { "id": "u4", "name": "山田 太郎" },
+    "status": { "done": false, "progress": "in_progress" },
+    "tags": ["setup", "search", "日本語"],
+    "meta": {
+      "createdAt": "2024-06-01T10:00:00Z",
+      "updatedBy": { "id": "u1", "name": "Alice Nguyen" }
+    }
+  },
+  {
+    "id": "t2",
+    "title": "Refactor sidebar navigation",
+    "assignee": { "id": "u2", "name": "Bob Lee" },
+    "status": { "done": true, "progress": "completed" },
+    "tags": ["UI", "refactor"],
+    "meta": {
+      "createdAt": "2024-05-21T08:30:00Z",
+      "updatedBy": { "id": "u2", "name": "Bob Lee" }
+    }
+  },
+  {
+    "id": "t3",
+    "title": "API エラーハンドリング改善",
+    "assignee": { "id": "u3", "name": "Li Wei" },
+    "status": { "done": false, "progress": "in_review" },
+    "tags": ["backend", "日本語", "error"],
+    "meta": {
+      "createdAt": "2024-04-10T17:00:00Z",
+      "updatedBy": { "id": "u3", "name": "Li Wei" }
+    }
+  },
+  {
+    "id": "t4",
+    "title": "ユーザー認証ロジックの改善",
+    "assignee": { "id": "u5", "name": "김민지" },
+    "status": { "done": true, "progress": "completed" },
+    "tags": ["auth", "security", "韓国語"],
+    "meta": {
+      "createdAt": "2024-03-12T11:00:00Z",
+      "updatedBy": { "id": "u5", "name": "김민지" }
+    }
+  },
+  {
+    "id": "t5",
+    "title": "Optimize database indices",
+    "assignee": { "id": "u1", "name": "Alice Nguyen" },
+    "status": { "done": false, "progress": "not_started" },
+    "tags": ["DB", "performance"],
+    "meta": {
+      "createdAt": "2024-03-05T07:00:00Z",
+      "updatedBy": { "id": "u1", "name": "Alice Nguyen" }
+    }
+  },
+  {
+    "id": "t6",
+    "title": "Write unit tests for checkout flow",
+    "assignee": { "id": "u6", "name": "Иван Иванов" },
+    "status": { "done": false, "progress": "in_progress" },
+    "tags": ["testing", "checkout"],
+    "meta": {
+      "createdAt": "2024-01-18T09:30:00Z",
+      "updatedBy": { "id": "u6", "name": "Иван Иванов" }
+    }
+  },
+  {
+    "id": "t7",
+    "title": "Docker setup for local Meilisearch",
+    "assignee": { "id": "u2", "name": "Bob Lee" },
+    "status": { "done": true, "progress": "completed" },
+    "tags": ["docker", "infra", "meilisearch"],
+    "meta": {
+      "createdAt": "2024-02-01T15:45:00Z",
+      "updatedBy": { "id": "u2", "name": "Bob Lee" }
+    }
+  },
+  {
+    "id": "t8",
+    "title": "Reactのパフォーマンス最適化",
+    "assignee": { "id": "u7", "name": "佐藤 美咲" },
+    "status": { "done": false, "progress": "in_review" },
+    "tags": ["React", "日本語", "performance"],
+    "meta": {
+      "createdAt": "2024-04-15T14:00:00Z",
+      "updatedBy": { "id": "u7", "name": "佐藤 美咲" }
+    }
+  },
+  {
+    "id": "t9",
+    "title": "Migrate Firebase to Supabase",
+    "assignee": { "id": "u8", "name": "Carlos Díaz" },
+    "status": { "done": false, "progress": "not_started" },
+    "tags": ["migration", "firebase", "supabase"],
+    "meta": {
+      "createdAt": "2024-03-01T12:00:00Z",
+      "updatedBy": { "id": "u8", "name": "Carlos Díaz" }
+    }
+  },
+  {
+    "id": "t10",
+    "title": "Fix SSR hydration issue",
+    "assignee": { "id": "u9", "name": "ジュリア・マイヤー" },
+    "status": { "done": true, "progress": "completed" },
+    "tags": ["SSR", "React", "バグ修正"],
+    "meta": {
+      "createdAt": "2024-02-20T19:00:00Z",
+      "updatedBy": { "id": "u9", "name": "ジュリア・マイヤー" }
+    }
+  }
+]

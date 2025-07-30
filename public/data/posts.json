@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p1",
+    "title": "Meilisearchの使い方",
+    "author": { "id": "u4", "name": "山田 太郎" },
+    "content": {
+      "summary": "Meilisearchの基本的な導入方法と活用例を紹介します。",
+      "body": "全文検索を実現するためのインデックス設定..."
+    },
+    "tags": ["search", "日本語"],
+    "stats": { "views": 1500, "likes": 200 }
+  },
+  {
+    "id": "p2",
+    "title": "Reactで検索を実装する",
+    "author": { "id": "u2", "name": "Bob Lee" },
+    "content": {
+      "summary": "ReactとMeilisearchを使った検索機能の構築手順",
+      "body": "まずはMeilisearchサーバーを立てるところから..."
+    },
+    "tags": ["React", "検索", "UX"],
+    "stats": { "views": 890, "likes": 120 }
+  },
+  {
+    "id": "p3",
+    "title": "Handling edge cases in JS",
+    "author": { "id": "u3", "name": "Li Wei" },
+    "content": {
+      "summary": "Common pitfalls and fixes in JavaScript error handling",
+      "body": "Use try-catch, avoid silent failures..."
+    },
+    "tags": ["JavaScript", "tips"],
+    "stats": { "views": 620, "likes": 85 }
+  },
+  {
+    "id": "p4",
+    "title": "Docker Compose入門",
+    "author": { "id": "u7", "name": "佐藤 美咲" },
+    "content": {
+      "summary": "Docker Composeを使って複数コンテナを管理",
+      "body": "YAML形式の設定ファイルを使用して..."
+    },
+    "tags": ["Docker", "日本語", "DevOps"],
+    "stats": { "views": 780, "likes": 90 }
+  },
+  {
+    "id": "p5",
+    "title": "Security best practices for APIs",
+    "author": { "id": "u5", "name": "김민지" },
+    "content": {
+      "summary": "Token-based auth, rate limiting, input validation",
+      "body": "Always validate data and use HTTPS..."
+    },
+    "tags": ["security", "API"],
+    "stats": { "views": 1100, "likes": 150 }
+  },
+  {
+    "id": "p6",
+    "title": "Supabase vs Firebase",
+    "author": { "id": "u8", "name": "Carlos Díaz" },
+    "content": {
+      "summary": "Comparison of real-time databases and hosting",
+      "body": "Supabase offers a Postgres backend with GraphQL support..."
+    },
+    "tags": ["Supabase", "Firebase", "comparison"],
+    "stats": { "views": 540, "likes": 45 }
+  },
+  {
+    "id": "p7",
+    "title": "ローカライズされたUIの作り方",
+    "author": { "id": "u9", "name": "ジュリア・マイヤー" },
+    "content": {
+      "summary": "多言語対応UIを構築するための戦略",
+      "body": "i18nの使い方とgettextベースの管理方法..."
+    },
+    "tags": ["i18n", "UI", "日本語"],
+    "stats": { "views": 610, "likes": 78 }
+  },
+  {
+    "id": "p8",
+    "title": "Test-driven development",
+    "author": { "id": "u6", "name": "Иван Иванов" },
+    "content": {
+      "summary": "Why TDD helps you write better code",
+      "body": "Red-green-refactor is the loop you’ll love..."
+    },
+    "tags": ["TDD", "testing"],
+    "stats": { "views": 420, "likes": 50 }
+  },
+  {
+    "id": "p9",
+    "title": "FireStoreの部分一致検索",
+    "author": { "id": "u10", "name": "Nguyễn Văn Bảo" },
+    "content": {
+      "summary": "部分一致検索を模倣する方法",
+      "body": "エンティティ構造を保ちながら..."
+    },
+    "tags": ["Firestore", "search", "日本語"],
+    "stats": { "views": 980, "likes": 130 }
+  },
+  {
+    "id": "p10",
+    "title": "Local development best practices",
+    "author": { "id": "u1", "name": "Alice Nguyen" },
+    "content": {
+      "summary": "Use Docker, set env vars properly, manage secrets",
+      "body": "Always use .env.local for secrets in dev..."
+    },
+    "tags": ["localdev", "best practices"],
+    "stats": { "views": 560, "likes": 70 }
+  }
+]

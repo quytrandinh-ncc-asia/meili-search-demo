@@ -1,0 +1,92 @@
+[
+  {
+    "id": "u1",
+    "profile": {
+      "name": "Alice Nguyen",
+      "bio": "Frontend developer and UX designer"
+    },
+    "email": "alice@example.com",
+    "location": { "country": "Vietnam", "city": "Ho Chi Minh" }
+  },
+  {
+    "id": "u2",
+    "profile": {
+      "name": "Bob Lee",
+      "bio": "React engineer focusing on performance"
+    },
+    "email": "bob@example.com",
+    "location": { "country": "USA", "city": "San Francisco" }
+  },
+  {
+    "id": "u3",
+    "profile": {
+      "name": "Li Wei",
+      "bio": "Node.js backend developer"
+    },
+    "email": "wei.li@example.cn",
+    "location": { "country": "China", "city": "Beijing" }
+  },
+  {
+    "id": "u4",
+    "profile": {
+      "name": "山田 太郎",
+      "bio": "検索エンジンの研究者"
+    },
+    "email": "taro@example.jp",
+    "location": { "country": "Japan", "city": "Tokyo" }
+  },
+  {
+    "id": "u5",
+    "profile": {
+      "name": "김민지",
+      "bio": "보안 전문가"
+    },
+    "email": "minji@example.kr",
+    "location": { "country": "Korea", "city": "Seoul" }
+  },
+  {
+    "id": "u6",
+    "profile": {
+      "name": "Иван Иванов",
+      "bio": "QA engineer, writes in Russian"
+    },
+    "email": "ivan@example.ru",
+    "location": { "country": "Russia", "city": "Moscow" }
+  },
+  {
+    "id": "u7",
+    "profile": {
+      "name": "佐藤 美咲",
+      "bio": "日本語で開発しています"
+    },
+    "email": "misaki@example.jp",
+    "location": { "country": "Japan", "city": "Osaka" }
+  },
+  {
+    "id": "u8",
+    "profile": {
+      "name": "Carlos Díaz",
+      "bio": "Cloud architect from Mexico"
+    },
+    "email": "carlos@example.mx",
+    "location": { "country": "Mexico", "city": "Guadalajara" }
+  },
+  {
+    "id": "u9",
+    "profile": {
+      "name": "ジュリア・マイヤー",
+      "bio": "ドイツ出身のフロントエンドエンジニア"
+    },
+    "email": "julia@example.de",
+    "location": { "country": "Germany", "city": "Berlin" }
+  },
+  {
+    "id": "u10",
+    "profile": {
+      "name": "Nguyễn Văn Bảo",
+      "bio": "Full-stack dev, nói tiếng Việt"
+    },
+    "email": "bao@example.vn",
+    "location": { "country": "Vietnam", "city": "Da Nang" }
+  }
+]
